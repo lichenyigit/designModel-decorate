@@ -15,6 +15,6 @@ public class SingerDecorateC extends SingerSing{
     }
 
     private void decorate(){
-        System.out.println("悲惨经历介绍..");
+        System.out.println("经历介绍..");
     }
 }
